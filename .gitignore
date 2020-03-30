@@ -1,0 +1,11 @@
+# Ignore all files in the "data" subfolder
+data/
+# Ignore all *.dta & *.csv files in the project
+*.dta
+*.csv
+# Ignore Junk created by LaTex
+*.synctex.gz
+*.out
+*.log
+# Ignore Junk created by Python
+*.pyc
